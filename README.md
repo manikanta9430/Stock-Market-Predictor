@@ -10,3 +10,7 @@ When the shorter-term moving average crosses above the longer-term moving avera
 When the shorter term moving average crosses below the longer term moving average, it is a signal to SELL, as it indicates the trend is shifting down. It is sometimes referred to as the Death Cross.
 Moving averages cross each other in order to generate a signal.
 When the signal is neither buy nor sell, it is classified as hold. If you already own the stock, keep it and if you don't then don't buy it now.
+
+<h2>Data sets</h2>
+The dataset provided here has been extracted from the NSE website.
+The Stock price data provided is from 1-Jan-2015 to 31-July-2018 for six stocks Eicher Motors, Hero, Bajaj Auto, TVS Motors, Infosys and TCS.
